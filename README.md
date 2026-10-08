@@ -65,7 +65,7 @@ An AI-based solution designed to detect road accidents using cameras and provide
 ### 🌐 Personal Portfolio
 My personal developer portfolio showcasing my skills, projects, and experience.
 
-🔗 **Portfolio:** (https://harshavardhana-b-k.vercel.app/)
+🔗 **Portfolio:** (https://harshavardhanabk.github.io/protfolio/)
 
 ---
 
